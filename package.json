@@ -1,0 +1,24 @@
+{
+  "name": "poju-business-arena",
+  "version": "2.1.1",
+  "private": true,
+  "description": "破局企业运营训练场：25家公司、八季度、分级策略对手、逐项复盘与团队看板。",
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "vite build --config frontend/vite.config.mjs",
+    "test": "node tests/model.mjs && node tests/api.mjs",
+    "package": "node scripts/package-release.mjs"
+  },
+  "dependencies": {
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "lucide-react": "1.31.0"
+  },
+  "devDependencies": {
+    "vite": "8.0.13"
+  }
+}

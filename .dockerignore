@@ -1,0 +1,11 @@
+data
+frontend
+.env
+node_modules
+*.zip
+.git
+.github
+build
+tests
+*.sqlite*
+owner-code.txt

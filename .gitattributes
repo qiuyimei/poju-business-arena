@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.cmd text eol=crlf
+# Migration hashes are checked against the exact original SQL bytes.
+drizzle/*.sql -text
+*.png binary
+*.zip binary

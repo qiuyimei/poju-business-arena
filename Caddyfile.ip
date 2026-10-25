@@ -1,0 +1,15 @@
+{
+	default_sni {$SITE_HOST}
+}
+
+{$SITE_HOST} {
+	tls {
+		issuer acme https://acme-v02.api.letsencrypt.org/directory {
+			profile shortlived
+		}
+	}
+	encode gzip
+	reverse_proxy app:8080 {
+		header_up X-Real-IP {remote_host}
+	}
+}

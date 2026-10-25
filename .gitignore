@@ -1,0 +1,12 @@
+node_modules/
+data/
+build/
+.env
+.env.*
+!.env.example
+*.sqlite*
+owner-code.txt
+*.log
+*.zip
+.DS_Store
+Thumbs.db

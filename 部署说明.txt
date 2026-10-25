@@ -1,0 +1,13 @@
+破局 2.1.1 · 独立部署包
+
+第一次使用：阅读 README.md 和 docs/getting-started.md。
+Windows 先安装 Node.js 24，再双击“启动-本机预览.cmd”。
+保留启动窗口，用浏览器打开 http://localhost:8080。
+不要直接打开 public/index.html 或输入文件夹路径。
+
+负责人码在首次启动生成的 data/owner-code.txt 中。
+团队看板自动汇总要求成员访问同一个运行中的服务地址。
+每人独立运行自己的包，数据不会自动合并。
+
+服务器配置、升级、备份与恢复：docs/deployment.md。
+本包没有包含原线上平台数据、成员记录或负责人码。
