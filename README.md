@@ -1,3 +1,29 @@
+<!-- project-showcase:start -->
+<p align="center"><img src="docs/showcase/cover.svg" width="100%" alt="破局运营 · 企业经营仿真与团队训练" /></p>
+<p align="center"><b>八季经营 · 决策复盘 · 团队训练</b></p>
+<p align="center"><a href="#作品画面">看作品</a>　 ·　 <a href="ITERATION_HISTORY.md">历次迭代</a>　 ·　 <a href="https://github.com/qiuyimei/poju-business-arena/archive/refs/heads/main.zip">下载源码</a>　 ·　 <a href="https://github.com/qiuyimei/codex-old-deliverables-20261031#作品图录">全部作品</a></p>
+
+**破局运营** · 企业经营仿真与团队训练。
+
+## 作品画面
+
+<table><tr><td width="50%" align="center" valign="top"><a href="docs/showcase/preview-01.png"><img src="docs/showcase/preview-01.png" width="374" alt="企业案例操盘" /></a><br/><sub>企业案例操盘</sub></td><td width="50%" align="center" valign="top"><a href="docs/showcase/preview-02.png"><img src="docs/showcase/preview-02.png" width="374" alt="逐项决策解析" /></a><br/><sub>逐项决策解析</sub></td></tr></table>
+
+## 从这里开始
+
+| 想做什么 | 入口 |
+| --- | --- |
+| 查看每次迭代、日期与改动 | [历史版本目录](ITERATION_HISTORY.md) |
+| 下载当前完整源码 | [当前版本 ZIP](https://github.com/qiuyimei/poju-business-arena/archive/refs/heads/main.zip) |
+| 下载发布包、查看已有附件 | [Releases 发布页](https://github.com/qiuyimei/poju-business-arena/releases) |
+| 浏览当前工程 | [仓库文件](.) |
+
+<!-- project-showcase:end -->
+
+---
+
+## 使用与项目说明
+
 # 破局 · 企业运营训练场
 
 在八个季度里经营一家公司，与 24 个策略对手竞争；从每项决策、现金变化和公司对比中学习。此仓库独立保存“破局”，与 C/C++ 学习平台分开。
@@ -55,3 +81,4 @@ npm start
 这是独立教学模型，不复制官方比赛的未公开算法。对手是模型内的策略程序，不是真实参赛队伍；难度不代表真人水平认证。案例中的公司经营事实与模拟参数需要分别阅读。练习可以帮助理解决策，但不能保证比赛名次。
 
 此仓库与发布包均不包含现有平台的数据库、成员记录、负责人码或服务器私密配置。首次启动创建自己的空白数据。
+
