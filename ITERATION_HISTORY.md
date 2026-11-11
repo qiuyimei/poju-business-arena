@@ -13,8 +13,8 @@
 
 | 时间（原记录） | 改动说明 | 源码 | 下载 |
 |---|---|---|---|
-| 2026-10-12 13:49:55 | Update Site source | [8483ec815e](https://github.com/qiuyimei/poju-business-arena/tree/8483ec815e6a1c15ada267dca3fd454497618de4) | [ZIP](https://github.com/qiuyimei/poju-business-arena/archive/8483ec815e6a1c15ada267dca3fd454497618de4.zip) |
-| 2026-10-25 14:12:07 | Publish standalone Poju training platform with complete guides and checks | [e7da879f5b](https://github.com/qiuyimei/poju-business-arena/tree/e7da879f5bb884292c0c13791be0b58aaeb553b3) | [ZIP](https://github.com/qiuyimei/poju-business-arena/archive/e7da879f5bb884292c0c13791be0b58aaeb553b3.zip) |
+| 2026-10-12 13:49:55 | 变更 124 个文件（新增 124）；涉及 `app/api/platform/route.ts`、`app/chatgpt-auth.ts`、`app/globals.css`<br>原始记录：Update Site source | [8483ec815e](https://github.com/qiuyimei/poju-business-arena/tree/8483ec815e6a1c15ada267dca3fd454497618de4) | [ZIP](https://github.com/qiuyimei/poju-business-arena/archive/8483ec815e6a1c15ada267dca3fd454497618de4.zip) |
+| 2026-10-25 14:12:07 | 变更 54 个文件（新增 54）；涉及 `frontend/App.tsx`、`frontend/CaseCockpit.tsx`、`frontend/DecisionGuide.tsx`<br>原始记录：Publish standalone Poju training platform with complete guides and checks | [e7da879f5b](https://github.com/qiuyimei/poju-business-arena/tree/e7da879f5bb884292c0c13791be0b58aaeb553b3) | [ZIP](https://github.com/qiuyimei/poju-business-arena/archive/e7da879f5bb884292c0c13791be0b58aaeb553b3.zip) |
 
 ## 核验
 
