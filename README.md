@@ -1,7 +1,7 @@
 <!-- project-showcase:start -->
 <p align="center"><img src="docs/showcase/cover.svg" width="100%" alt="破局运营 · 企业经营仿真与团队训练" /></p>
 <p align="center"><b>八季经营 · 决策复盘 · 团队训练</b></p>
-<p align="center"><a href="#作品画面">看作品</a>　 ·　 <a href="ITERATION_HISTORY.md">历次迭代</a>　 ·　 <a href="https://github.com/qiuyimei/poju-business-arena/archive/refs/heads/main.zip">下载源码</a>　 ·　 <a href="https://github.com/qiuyimei/codex-old-deliverables-20261031#作品图录">全部作品</a></p>
+<p align="center"><a href="#作品画面">看作品</a>　 ·　 <a href="ITERATION_HISTORY.md">历次迭代</a>　 ·　 <a href="https://github.com/qiuyimei/poju-business-arena/archive/refs/heads/main.zip">下载源码</a>　 ·　 <a href="https://github.com/qiuyimei/project-collection">全部作品</a></p>
 
 **破局运营** · 企业经营仿真与团队训练。
 
